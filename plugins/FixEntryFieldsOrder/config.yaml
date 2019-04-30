@@ -1,0 +1,6 @@
+name: FixEntryFieldsOrder
+applications:
+  cms:
+    callbacks:
+      template_source.edit_entry: $FixEntryFieldsOrder::FixEntryFieldsOrder::CMS::template_source_edit_entry
+
