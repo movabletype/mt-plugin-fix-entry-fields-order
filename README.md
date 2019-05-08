@@ -4,7 +4,10 @@
 
 ## ダウンロード
 
+* [バージョン 0.2 (2019/05/08)](https://github.com/miniuchi/mt-plugin-fix-entry-fields-order/releases/download/0.2/mt-plugin-fix-entry-fields-order-0.2.zip)
 * [バージョン 0.1 (2019/05/01)](https://github.com/miniuchi/mt-plugin-fix-entry-fields-order/releases/download/0.1/mt-plugin-fix-entry-fields-order-0.1.zip)
+
+[変更履歴](https://github.com/miniuchi/mt-plugin-fix-entry-fields-order/releases)
 
 ## インストール
 
