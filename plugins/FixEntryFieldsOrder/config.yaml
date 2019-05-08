@@ -12,3 +12,9 @@ applications:
     callbacks:
       template_source.edit_entry: $FixEntryFieldsOrder::FixEntryFieldsOrder::CMS::template_source_edit_entry
 
+settings:
+  fix_entry_fields_order:
+    scope: blog
+
+blog_config_template: blog_config.tmpl
+
