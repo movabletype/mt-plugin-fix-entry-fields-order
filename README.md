@@ -4,9 +4,9 @@
 
 ## ダウンロード
 
-* [バージョン 1.0 (2019/05/09)](https://github.com/miniuchi/mt-plugin-fix-entry-fields-order/releases/download/1.0/mt-plugin-fix-entry-fields-order-1.0.zip)
+* [バージョン 1.0 (2019/05/09)](https://github.com/movabletype/mt-plugin-fix-entry-fields-order/releases/download/1.0/mt-plugin-fix-entry-fields-order-1.0.zip)
 
-[変更履歴と過去のバージョン](https://github.com/miniuchi/mt-plugin-fix-entry-fields-order/releases)
+[変更履歴と過去のバージョン](https://github.com/movabletype/mt-plugin-fix-entry-fields-order/releases)
 
 ## インストール
 
@@ -28,7 +28,7 @@
 
 本プラグインは Movable Type 製品サポートの対象外となります。不具合・ご要望は GitHub リポジトリの Issues の方までご連絡ください。
 
-https://github.com/miniuchi/mt-plugin-fix-entry-fields-order/issues
+https://github.com/movabletype/mt-plugin-fix-entry-fields-order/issues
 
 ## ライセンス
 

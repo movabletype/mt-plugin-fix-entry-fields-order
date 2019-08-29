@@ -5,7 +5,7 @@ description: 記事・ページ編集画面で、カスタムフィールドな�
 version: 1.0
 author_name: 'Six Apart Ltd.'
 author_link: https://www.sixapart.jp/
-plugin_link: https://github.com/miniuchi/mt-plugin-fix-entry-fields-order
+plugin_link: https://github.com/movabletype/mt-plugin-fix-entry-fields-order
 
 applications:
   cms:
